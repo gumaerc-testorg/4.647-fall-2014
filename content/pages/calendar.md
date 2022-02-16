@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 3321b34a-0597-6dd0-88b9-d91e96f22d18
 ---
@@ -64,7 +66,7 @@ Governmentality
 Biopolitics
 {{< tdclose >}}
 {{< tdopen >}}
-1st Midterm due
+1{{< sup "st" >}} Midterm due
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +114,7 @@ Organicism
 Synthetics
 {{< tdclose >}}
 {{< tdopen >}}
-2nd Midterm due
+2{{< sup "nd" >}} Midterm due
 {{< tdclose >}}
 
 {{< trclose >}}
