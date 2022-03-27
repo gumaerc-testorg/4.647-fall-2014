@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 36a868dc-9cf5-091d-e5d0-eda7d9cea9d6
 resourcetype: Document
 title: First Interim Exam
 uid: e9181234-13a9-292a-9ee9-df5b992ce930

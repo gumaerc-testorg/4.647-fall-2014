@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 36a868dc-9cf5-091d-e5d0-eda7d9cea9d6
 resourcetype: Document
 title: Second Interim Exam
 uid: 5716db17-42d0-f057-8d1d-a380b576c244
