@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for an exam on architecture, technopolitics,
   culture, and intervention.
-file: /media/courses/4-647-technopolitics-culture-intervention-fall-2014/29c79d1be84e30996aaba1808259f6a6_MIT4_647F14_Techno_Pr_Fnl.pdf
+file: /courses/4-647-technopolitics-culture-intervention-fall-2014/29c79d1be84e30996aaba1808259f6a6_MIT4_647F14_Techno_Pr_Fnl.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -15,3 +15,5 @@ title: 'Simulating the Healing Machine: A brief, critical history of standardize
   patient programs'
 uid: 29c79d1b-e84e-3099-6aab-a1808259f6a6
 ---
+Example of student work for an exam on architecture, technopolitics, culture, and intervention.
+
