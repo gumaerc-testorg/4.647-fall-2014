@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, prerequisites, grading, and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 91184d29-a7cd-23d5-6155-a815ed13ab34
 ---
@@ -19,7 +23,7 @@ Architectural literature is filled with a surfeit of both metaphorical and liter
 Prerequisites
 -------------
 
-[_4.645 Selected Topics in Architecture: Architecture from 1750 to the Present_](/courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/)
+[_4.645 Selected Topics in Architecture: Architecture from 1750 to the Present_](/courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004)
 
 Grading
 -------
