@@ -6,6 +6,7 @@ file: /courses/4-647-technopolitics-culture-intervention-fall-2014/5716db1742d0f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Second Interim Exam
 uid: 5716db17-42d0-f057-8d1d-a380b576c244
 ---
 Exam on organicism and architecture's relationship to bodies, biology, and aesthetics.
-

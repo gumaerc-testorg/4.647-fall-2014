@@ -5,6 +5,7 @@ file: /courses/4-647-technopolitics-culture-intervention-fall-2014/5110ba3e1241f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Exam
 uid: 5110ba3e-1241-fd58-6935-4b92f95f0786
 ---
 Final exam on architecture, technopolitics, culture, and intervention.
-
