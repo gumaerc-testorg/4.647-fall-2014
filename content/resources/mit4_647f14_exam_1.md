@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam on public art, territoriality, and apparatus.
-file: /courses/4-647-technopolitics-culture-intervention-fall-2014/e918123413a9292a9ee9df5b992ce930_MIT4_647F14_Exam_1.pdf
+file: /ol-ocw-studio-app/courses/4-647-technopolitics-culture-intervention-fall-2014/e918123413a9292a9ee9df5b992ce930_MIT4_647F14_Exam_1.pdf
 file_size: 137260
 file_type: application/pdf
 learning_resource_types:
