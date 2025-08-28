@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam on architecture, technopolitics, culture, and intervention.
-file: /courses/4-647-technopolitics-culture-intervention-fall-2014/5110ba3e1241fd5869354b92f95f0786_MIT4_647F14_Exam_3.pdf
+file: /ol-ocw-studio-app/courses/4-647-technopolitics-culture-intervention-fall-2014/5110ba3e1241fd5869354b92f95f0786_MIT4_647F14_Exam_3.pdf
 file_size: 144123
 file_type: application/pdf
 learning_resource_types:
